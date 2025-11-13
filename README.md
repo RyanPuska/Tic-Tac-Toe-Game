@@ -1,3 +1,3 @@
 # Projects
 
-Tic Tac Toe Game.
+Project section in progress... 🛠️

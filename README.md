@@ -1,3 +1,1 @@
-# Projects
-
-Project section in progress... 🛠️
+# Tic Tac Toe
